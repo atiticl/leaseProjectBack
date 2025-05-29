@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e8c2d88-6166-49ff-bc3c-cc6448c6e657" name="Changes" comment="尚庭公寓初始化代码" />
+    <list default="true" id="2e8c2d88-6166-49ff-bc3c-cc6448c6e657" name="Changes" comment="尚庭公寓初始化代码">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web-admin/src/main/java/com/lzp/leaseProject/web/admin/vo/agreement/AgreementVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/lzp/leaseProject/web/admin/vo/agreement/AgreementVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web-admin/src/main/java/com/lzp/leaseProject/web/admin/vo/room/RoomDetailVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/lzp/leaseProject/web/admin/vo/room/RoomDetailVo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +73,20 @@
       <recent name="com.atguigu.lease" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.AdminWebApplication">
+  <component name="RunManager" selected="Spring Boot.AdminWebApplication (1)">
+    <configuration name="AdminWebApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="web-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzp.leaseProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzp.leaseProject.AdminWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AdminWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="web-admin" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.lease.AdminWebApplication" />
@@ -84,6 +101,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AdminWebApplication (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -103,7 +125,7 @@
       <updated>1739845145038</updated>
       <workItem from="1739845146062" duration="24816000" />
       <workItem from="1748486450435" duration="2582000" />
-      <workItem from="1748489881032" duration="610000" />
+      <workItem from="1748489881032" duration="923000" />
     </task>
     <task id="LOCAL-00001" summary="尚庭公寓初始化代码">
       <option name="closed" value="true" />
@@ -113,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739861868615</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="尚庭公寓初始化代码">
+      <created>1748491035003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748491035003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

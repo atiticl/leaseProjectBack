@@ -1,6 +1,5 @@
 package com.lzp.leaseProject.web.admin.vo.agreement;
 
-import com.atguigu.lease.model.entity.*;
 import com.lzp.leaseProject.model.entity.*;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;

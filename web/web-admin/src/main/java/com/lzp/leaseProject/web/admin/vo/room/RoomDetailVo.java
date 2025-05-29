@@ -1,6 +1,5 @@
 package com.lzp.leaseProject.web.admin.vo.room;
 
-import com.atguigu.lease.model.entity.*;
 import com.lzp.leaseProject.web.admin.vo.attr.AttrValueVo;
 import com.lzp.leaseProject.web.admin.vo.graph.GraphVo;
 import com.lzp.leaseProject.model.entity.*;
